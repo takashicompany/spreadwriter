@@ -24,6 +24,7 @@ GL516ケースについての説明は[こちら](https://salicylic-acid3.hatena
 |:--|:--|:--|
 |[GL516ケース](https://shop.yushakobo.jp/products/3814)|1|付属している各種プレートやネジなども組み立てに使用します。|
 |ダイオード|53|[リードタイプ](https://shop.yushakobo.jp/products/a0800di-01-100)と[SMDタイプ](https://shop.yushakobo.jp/products/a0800di-02-100)に対応しております。|
+|[タクタイルスイッチ](https://shop.yushakobo.jp/products/a0800ts-01-1)|1|リセットスイッチとして利用します。|
 |キーキャップ 1u|49|Cherry MX軸に対応したもの。|
 |キーキャップ 1.25u|2|Cherry MX軸に対応したもの。|
 |キーキャップ 1.5u|2|Cherry MX軸に対応したもの。|
@@ -43,4 +44,4 @@ GL516ケースについての説明は[こちら](https://salicylic-acid3.hatena
 ## 組み立て方
 
 - 基本的な組立方法は[自作キーボードキット『A52GL』『J73GL』ビルドガイド](https://salicylic-acid3.hatenablog.com/entry/a52gl-j73gl-build-guide)と同様です。
-- [GL516 カスタマイズガイド](https://zenn.dev/salicylic_acid3/books/gl516_customize_guide)
+- BLE Micro Proを用いて無線化する際は[GL516 カスタマイズガイド](https://zenn.dev/salicylic_acid3/books/gl516_customize_guide)をご覧ください。
