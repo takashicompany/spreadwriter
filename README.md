@@ -8,6 +8,8 @@ LEDを用いたキーの照明や、ロータリーエンコーダの搭載も�
 The radial key layout allows for a natural hand placement and comfortable typing posture.  
 LED-based key illumination and a rotary encoder are also available.  
 
+GL516ケースについての説明は[こちら](https://salicylic-acid3.hatenablog.com/entry/gl516-introduction)をご覧ください・
+
 ## 必要な部品
 
 ### キットに同梱されているもの
@@ -39,3 +41,6 @@ LED-based key illumination and a rotary encoder are also available.
 |[SK6812MINI-E](https://shop.yushakobo.jp/products/sk6812mini-e-10)|53|キーキャップを底面から照らすバックライト。|
 
 ## 組み立て方
+
+- 基本的な組立方法は[自作キーボードキット『A52GL』『J73GL』ビルドガイド](https://salicylic-acid3.hatenablog.com/entry/a52gl-j73gl-build-guide)と同様です。
+- [GL516 カスタマイズガイド](https://zenn.dev/salicylic_acid3/books/gl516_customize_guide)
