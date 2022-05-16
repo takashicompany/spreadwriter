@@ -45,3 +45,94 @@ GL516ケースについての説明は[こちら](https://salicylic-acid3.hatena
 
 - 基本的な組立方法は[自作キーボードキット『A52GL』『J73GL』ビルドガイド](https://salicylic-acid3.hatenablog.com/entry/a52gl-j73gl-build-guide)と同様です。
 - BLE Micro Proを用いて無線化する際は[GL516 カスタマイズガイド](https://zenn.dev/salicylic_acid3/books/gl516_customize_guide)をご覧ください。
+
+### 1. PCBの裏面にダイオードをはんだ付けする
+
+<img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_0581.jpg?raw=true" width="600px"/>
+
+<img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_0583.jpg?raw=true" width="600px"/>
+
+
+<img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_0585.jpg?raw=true" width="600px"/>
+
+
+<img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_0586.jpg?raw=true" width="600px"/>
+
+
+<img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_0587.jpg?raw=true" width="600px"/>
+
+<img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_0588.jpg?raw=true" width="600px"/>
+
+
+<img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_0590.jpg?raw=true" width="600px">
+
+
+<img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_0591.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_0592.jpg?raw=true" width="600px"/>
+
+### リセットスイッチの取り付け
+
+<img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_0595.jpg?raw=true" width="600px"/>
+
+
+<img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_0596.jpg?raw=true" width="600px"/>
+
+<img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_0597.jpg?raw=true" width="600px"/>
+
+<img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_0598.jpg?raw=true" width="600px"/>
+
+
+### Pro Microの取り付け
+
+<img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_0603.jpg?raw=true" width="600px"/>
+
+### ファームウェアの書き込み
+
+### LEDの取り付け (上級者向け)
+
+<img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_0579_b.jpg?raw=true" width="600px"/>
+
+<img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_0607.jpg?raw=true" width="600px"/>
+
+### スイッチソケットの取り付け
+
+<img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_0599.jpg?raw=true" width="600px"/>
+
+<img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_0600.jpg?raw=true" width="600px"/>
+
+<img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_0601.jpg?raw=true" width="600px"/>
+
+<img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_0602.jpg?raw=true" width="600px"/>
+
+### ロータリーエンコーダの取り付け
+
+
+<img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_0619.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_0618.jpg?raw=true" width="600px"/>
+
+### キースイッチプレートの取り付け
+
+<img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_0611.jpg?raw=true" width="600px"/>
+
+<img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_0613.jpg?raw=true" width="600px"/>
+
+### GL516ケースへの取り付け
+
+<img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_0614.jpg?raw=true" width="600px"/>
+
+<img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_0622.jpg?raw=true" width="600px"/>
+
+
+
+<!--
+<img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+
+-->
