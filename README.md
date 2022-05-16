@@ -34,6 +34,8 @@ LED-based key illumination and a rotary encoder are also available.
 ### オプション
 |部品|個数|備考|
 |:--|:--|:--|
-|[BLE Micro Pro](https://shop.yushakobo.jp/products/ble-micro-pro)|1||
+|[BLE Micro Pro](https://shop.yushakobo.jp/products/ble-micro-pro)|1|[GL516の無線用電池部品セットと無線用単4電池ケース](https://booth.pm/ja/items/3675855)に対応しております。|
 |コンスルー|2||
 |[SK6812MINI-E](https://shop.yushakobo.jp/products/sk6812mini-e-10)|53|キーキャップを底面から照らすバックライト。|
+
+## 組み立て方
