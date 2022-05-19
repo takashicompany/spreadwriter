@@ -31,7 +31,7 @@ GL516ケースについての説明は[こちら](https://salicylic-acid3.hatena
 |キーキャップ 1.25u|2|Cherry MX軸に対応したもの。|
 |キーキャップ 1.5u|2|Cherry MX軸に対応したもの。|
 |キースイッチ|53|Cherry MX互換のもの。|
-|ロータリーエンコーダ|1|ノブは直径16.5mm以下に対応しております。|
+|[ロータリーエンコーダ](https://shop.yushakobo.jp/products/3762)|1|ノブは直径16.5mm以下に対応しております。|
 |[スイッチ用 ソケット(MX)](https://shop.yushakobo.jp/products/a01ps)|53||
 |[Pro Micro](https://shop.yushakobo.jp/search?q=Pro+Micro)|1||
 |USBケーブル|1|Pro MicroとPCを接続します。|
@@ -143,29 +143,52 @@ LEDの取り付けを行う際は、
 ハンダ付け箇所に予備ハンダ(事前にハンダを溶かして載せておく)を行います。  
 <img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_0600.jpg?raw=true" width="600px"/>
 
-ピンセットでハンダ箇所
+ピンセットでソケットを抑えながら、予備ハンダを溶かしながらソケットの片方をハンダ付けします。  
 <img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_0601.jpg?raw=true" width="600px"/>
 
+もう片方もハンダ付けを行います。  
 <img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_0602.jpg?raw=true" width="600px"/>
 
-### ロータリーエンコーダの取り付け
+全部で53箇所をハンダ付けします。
 
+### 7. ロータリーエンコーダの取り付け
+
+[ロータリーエンコーダ](https://shop.yushakobo.jp/products/3762)はPCB表面から差し込みます。  
 <img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_0619.jpg?raw=true" width="600px"/>
+
+PCB裏面から足をハンダ付けします。
 <img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_0618.jpg?raw=true" width="600px"/>
 
-### キースイッチプレートの取り付け
+### 8. キースイッチとプレートの取り付け
 
+キースイッチプレートを取り付けます。  
 <img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_0611.jpg?raw=true" width="600px"/>
 
+キースイッチプレートはキースイッチでPCBと固定します。  
 <img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_0613.jpg?raw=true" width="600px"/>
 
-### GL516ケースへの取り付け
+### 9. GL516ケースへの取り付け
 
+GL516ケースにキースイッチプレートを取り付けます。  
+左右端の6箇所をネジで固定します。  
 <img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_0614.jpg?raw=true" width="600px"/>
 
+最後にキースイッチを付けて完成です。  
 <img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_0622.jpg?raw=true" width="600px"/>
 
+お好みで、デコレーションプレートを取り付けていただいても良いかと思います。  
+<img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/02.jpg?raw=true" width="600px"/>
 
+### 13. 完成したら...
+
+完成しましたら、ぜひSNSなどに写真を投稿頂ければと思います。
+Twitterのハッシュタグは [`#Spreadwriter #自作キーボード`](https://twitter.com/search?q=%23%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%20%23Sprewadwriter&src=typed_query) を付けていただけると幸いです。
+キットを組み立てた感想や、キーボードを使った所感などをお待ちしております！
+
+また、毎週日曜日の１9時より実施されている[#KEEP_PD](https://twitter.com/hashtag/KEEB_PD?f=live)に投稿頂くこともオススメです。  
+開催の告知は[@KEEB_PD](https://twitter.com/KEEB_PD)にて行われております。
+
+ご不明な点などございましたら、[@takashicompany](https://twitter.com/takashicompany)にメンションやDM頂ければ回答できるかと思います。
 
 <!--
 <img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
