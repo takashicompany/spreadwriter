@@ -89,7 +89,7 @@ https://user-images.githubusercontent.com/4215759/126895350-43ae4cd4-408b-4ff4-a
 
 全部で54箇所をハンダ付けします。
 
-### リセットスイッチの取り付け
+### 2. リセットスイッチの取り付け
 
 リセットスイッチの取付箇所は、PCB裏面の中央部奥側です。  
 <img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_0595.jpg?raw=true" width="600px"/>
@@ -105,33 +105,50 @@ PCBの表面は下図のようになります。
 <img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_0598.jpg?raw=true" width="600px"/>
 
 
-### Pro Microの取り付け
+### 3. Pro Microの取り付け
 
 Pro MicroはPCB裏面に取り付けます。
 Pro Microの各ピンの番号とPCB穴の印字が合うように挿し込んでください。  
 (Pro Microの機種にもよりますが、大抵のものはチップが配置されている側がPCB裏面と同じ向きになるように挿し込みます。)  
 <img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_0603.jpg?raw=true" width="600px"/>
 
-### ファームウェアの書き込み
+### 4. ファームウェアの書き込み
 
-### LEDの取り付け (上級者向け)
+ファームウェアのソースコードは[こちら](https://github.com/qmk/qmk_firmware/tree/master/keyboards/takashicompany/spreadwriter)。
 
+[Remap](https://remap-keys.app/catalog/ov6RY4rheqn0vTQUvVvF/firmware)からも書き込むことができます。
+
+
+### 5. LEDの取り付け (上級者向け)
+
+LEDは[SK6812MINI-E](https://shop.yushakobo.jp/products/sk6812mini-e-10)を使います。  
+LEDの取り付け順は下記になります。  
 <img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_0579_b.jpg?raw=true" width="600px"/>
 
+`コ` の字の箇所に、LEDが斜めに欠けている箇所が来るように配置して、予備ハンダをしてハンダ付けを行います。  
 <img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_0607.jpg?raw=true" width="600px"/>
 
-### スイッチソケットの取り付け
+LEDの取り付けを行う際は、
+- ハンダごての温度に気をつける
+- (特に初めての方は)一つ取り付けたら、PCに接続して点灯するかを確認する
+- ハンダ箇所からズレないようにハンダ付けする
 
+以上に留意して進めると、スムーズに作業が進められるかと思います。
+
+### 6. スイッチソケットの取り付け
+
+キースイッチの固定は[スイッチ用ソケット(MX)](https://shop.yushakobo.jp/products/a01ps)を使用します。  
 <img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_0599.jpg?raw=true" width="600px"/>
 
+ハンダ付け箇所に予備ハンダ(事前にハンダを溶かして載せておく)を行います。  
 <img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_0600.jpg?raw=true" width="600px"/>
 
+ピンセットでハンダ箇所
 <img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_0601.jpg?raw=true" width="600px"/>
 
 <img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_0602.jpg?raw=true" width="600px"/>
 
 ### ロータリーエンコーダの取り付け
-
 
 <img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_0619.jpg?raw=true" width="600px"/>
 <img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_0618.jpg?raw=true" width="600px"/>
