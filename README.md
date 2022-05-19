@@ -156,7 +156,7 @@ LEDの取り付けを行う際は、
 [ロータリーエンコーダ](https://shop.yushakobo.jp/products/3762)はPCB表面から差し込みます。  
 <img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_0619.jpg?raw=true" width="600px"/>
 
-PCB裏面から足をハンダ付けします。
+PCB裏面から足をハンダ付けします。  
 <img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_0618.jpg?raw=true" width="600px"/>
 
 ### 8. キースイッチとプレートの取り付け
@@ -200,5 +200,4 @@ Twitterのハッシュタグは [`#Spreadwriter #自作キーボード`](https:/
 <img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
 <img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
 <img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
-
 -->
