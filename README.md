@@ -1,6 +1,6 @@
 # Spreadwriter
 
-<img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/02.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/07.jpg?raw=true" width="600px"/>
 
 "Spreadwriter" は[GL516ケース](https://shop.yushakobo.jp/products/3814)に対応した50%キーボードです。  
 放射状のキーレイアウトは、手を自然な形で置くことができ、楽な姿勢での打鍵を可能にしています。  
@@ -11,7 +11,16 @@ LEDを用いたキーの照明や、ロータリーエンコーダの搭載も�
 The radial key layout allows for a natural hand placement and comfortable typing posture.  
 LED-based key illumination and a rotary encoder are also available.  
 
-GL516ケースについての説明は[こちら](https://salicylic-acid3.hatenablog.com/entry/gl516-introduction)をご覧ください・
+GL516ケースについての説明は[こちら](https://salicylic-acid3.hatenablog.com/entry/gl516-introduction)をご覧ください。
+
+<img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/daihuku/future-funk/DSC02437.png?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/daihuku/jamon/DSC02419.png?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/daihuku/mod2/DSC02428.png?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/spreadwriter/blob/master/images/09.jpg?raw=true" width="600px"/>
+
+# YouTube
+
+[![youtube](https://img.youtube.com/vi/1nfpNCZQsbk/0.jpg)](https://www.youtube.com/watch?v=1nfpNCZQsbk)
 
 ## 必要な部品
 
