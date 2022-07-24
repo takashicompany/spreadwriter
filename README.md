@@ -119,6 +119,9 @@ Pro Microの各ピンの番号とPCB穴の印字が合うように挿し込ん�
 
 [Remap](https://remap-keys.app/catalog/ov6RY4rheqn0vTQUvVvF/firmware)からも書き込むことができます。
 
+#### キーボードが認識されない・認識されなくなることがある場合
+- LEDの輝度を落としてみてください。RemapなどでLEDの設定を変更することが可能です。
+- または、LEDをOFFにしてみてください。
 
 ### 5. LEDの取り付け (上級者向け)
 
